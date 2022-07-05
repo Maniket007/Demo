@@ -34,3 +34,13 @@
     color: white;
     cursor: pointer;
 }
+.signinbody_text{
+    text-align: center;
+    margin-top: 10px;
+    color: gray;
+}
+.signinbody_text > span{
+    font-weight: 700;
+    color: black;
+    cursor: pointer;
+}
